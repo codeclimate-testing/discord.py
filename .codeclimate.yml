@@ -5,4 +5,4 @@ plugins:
   duplication:
     enabled: true
     config:
-      language: python3
+      python_version: 3
