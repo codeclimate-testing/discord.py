@@ -2,3 +2,7 @@ version: "2"
 plugins:
   structure:
     enabled: true
+  duplication:
+    enabled: true
+    config:
+      language: python3
